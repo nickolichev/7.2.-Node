@@ -1,0 +1,27 @@
+{
+  "name": "7.2.-node",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nickolichev/7.2.-Node.git"
+  },
+  "author": "\"nickolichev\"",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/nickolichev/7.2.-Node/issues"
+  },
+  "homepage": "https://github.com/nickolichev/7.2.-Node#readme",
+  "dependencies": {
+    "eslint": "^8.34.0",
+    "prettier": "^2.8.4"
+  },
+  "eslintConfig": {
+"extends": "eslint:recommended"
+},
+  "prettier": "prettier"
+}
